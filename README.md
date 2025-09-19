@@ -1,7 +1,7 @@
 
-# 📧 CorpMail - AI-Powered Email Assistant
+# 📧 CorpMail - AI-Powered Agentic Email Assistant
 
-**Automate and streamline your corporate email communications with AI.**
+**Automate and streamline your corporate email communications with AI Agent.**
 
 ---
 
@@ -14,6 +14,7 @@ CorpMail is an intelligent email automation system for companies and teams. It e
 ## ✨ Key Features
 
 - **AI-Powered Email Generation:** Uses advanced LLMs (Groq, LangChain) to create professional emails from simple prompts.
+- **Agentic AI powered mail** - Intelligent agents that understand context and execute complex email workflows autonomously
 - **Branded HTML Templates:** Automatically formats emails with company branding and responsive design.
 - **Bulk Sending:** Send announcements and updates to multiple recipients at once.
 - **Interactive Chat UI:** Streamlit dashboard for real-time interaction and email preview.
@@ -96,15 +97,15 @@ CorpMail/
 
 - **Generate a meeting email:**  
   User: "Make an email for team meeting tomorrow at 2:00 PM in conference room A"  
-  AI: Generates a formatted meeting announcement.
+  Agent: Generates a formatted meeting announcement.
 
 - **Send an announcement:**  
   User: "Announce that our sales team exceeded quarterly targets by 150%"  
-  AI: Creates and sends a celebratory announcement.
+  Agent: Creates and sends a celebratory announcement.
 
 - **Bulk notification:**  
   User: "Send system maintenance notification to all users for this weekend"  
-  AI: Notifies all recipients with details.
+  Agent: Notifies all recipients with details.
 
 ---
 
